@@ -1,0 +1,11 @@
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\bin\Debug\PhotoCash.exe.config
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\bin\Debug\PhotoCash.exe
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\bin\Debug\PhotoCash.pdb
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\obj\Debug\PhotoCash.csproj.AssemblyReference.cache
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\obj\Debug\PhotoCash.Form1.resources
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\obj\Debug\PhotoCash.Form2.resources
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\obj\Debug\PhotoCash.Properties.Resources.resources
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\obj\Debug\PhotoCash.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\obj\Debug\PhotoCash.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\obj\Debug\PhotoCash.exe
+C:\Users\Chris\source\repos\PhotoCash\PhotoCash\obj\Debug\PhotoCash.pdb
